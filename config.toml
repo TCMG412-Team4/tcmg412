@@ -1,4 +1,4 @@
 baseURL = 'http://tcmg412-team4.github.io/tcmg412/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'TCMG 412 Introductions!'
 theme="Etch"
