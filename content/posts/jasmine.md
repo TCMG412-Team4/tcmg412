@@ -8,6 +8,8 @@ Howdy everyone, my name is Jasmine Nguyen and I am a Junior from Houston, Texas!
 
 My hobbies include tennis, golf, crafting, and squishmallow hunting! I currently have 56 of them! My most recent find was a 24in dragon named Miles who loves technology as much as I do!
 
+
+
 ![Picture of Bulbasaur](https://i.pinimg.com/originals/13/da/8a/13da8a6ead5f21bc341e86ef34c9e13e.png)
 
 ![sqish gif](https://media0.giphy.com/media/W4uuQ16i6o3WLIMKJS/giphy.gif?cid=790b7611cedc204204b1596f027e7695b70f7ef9d8e77ef8&rid=giphy.gif&ct=s)
