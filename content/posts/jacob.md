@@ -3,7 +3,7 @@ title: "Jacob"
 date: 2022-02-06T20:09:30-06:00
 ---
 
-
+![picture](https://media-exp1.licdn.com/dms/image/C4E03AQEKchfh48Yplw/profile-displayphoto-shrink_400_400/0/1633215257094?e=1649894400&v=beta&t=EvIE7k5IdgqV3z4o5YWZQ2pZtMo--XaraXoql7UGqM4)
 
 Introduction to me: 
 
