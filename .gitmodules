@@ -1,0 +1,3 @@
+[submodule "themes/Etch"]
+	path = themes/Etch
+	url = https://github.com/LukasJoswiak/etch
