@@ -8,8 +8,6 @@ Introduction to me: Howdy! My name is Keisha Benauro and I am Sophomore Technolo
 
 States I have been to: Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, Mississippi, Montana, Nevada, New Jersey, New York, North Dakota, Oklahoma. Pennsylvania, South Dakota, Tennessee, Texas, Virginia, Washington, Wyoming
 
-test
-
 Feel free to check out my LinkedIn: https://www.linkedin.com/in/keisha-maru-benauro/
 
-![bob]https://archives.bulbagarden.net/media/upload/thumb/7/70/EP012.png/400px-EP012.png
+![bob](https://archives.bulbagarden.net/media/upload/thumb/7/70/EP012.png/400px-EP012.png)
