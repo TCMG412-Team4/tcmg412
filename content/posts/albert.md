@@ -8,4 +8,4 @@ Alberts Photo
 Introduction: Howdy, my name's Albert Ruff. I am a TCMG senior at the college of Education and Human development.
 I am a novice computer programmer and and a hobby artist. 
 
-### Bingo Bango Boys
+### Bingo Bango boys, it's jam time 
