@@ -10,4 +10,4 @@ States I have been to: Alabama, Arizona, Arkansas, California, Colorado, Connect
 
 Feel free to check out my LinkedIn: https://www.linkedin.com/in/keisha-maru-benauro/
 
-![bob](https://archives.bulbagarden.net/media/upload/thumb/a/a3/Squirtle_joining_Ash.png/440px-Squirtle_joining_Ash.png)
+![Squirtle](https://archives.bulbagarden.net/media/upload/thumb/a/a3/Squirtle_joining_Ash.png/440px-Squirtle_joining_Ash.png)
