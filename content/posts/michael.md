@@ -9,4 +9,4 @@ My name is Michael Delgado and Im a Technology Management Major. I enjoy going t
 
 wasah
 
-![Yellow Duck](https://media-exp1.licdn.com/dms/image/C4E03AQHTmycf-MUZDA/profile-displayphoto-shrink_400_400/0/1633302827353?e=1649894400&v=beta&t=57kuIGJuQOuvvvT1cQ65e6G2xG7vcB4KO4QPZliZ8xc)
+![Yellow Duck](https://prnt.sc/26pyjlj)
