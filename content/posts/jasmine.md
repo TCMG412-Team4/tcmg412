@@ -10,7 +10,7 @@ My hobbies include tennis, golf, crafting, and squishmallow hunting! I currently
 
 Connect with me on LinkedIn! https://www.linkedin.com/in/jasmine-nguyen-4531b9222/
 
-![Picture of Bulbasaur](https://i.pinimg.com/originals/13/da/8a/13da8a6ead5f21bc341e86ef34c9e13e.png)
+*![Picture of Bulbasaur](https://i.pinimg.com/originals/13/da/8a/13da8a6ead5f21bc341e86ef34c9e13e.png)*
 
 <p align="center">
   <img width="460" height="300" src="https://i.pinimg.com/originals/13/da/8a/13da8a6ead5f21bc341e86ef34c9e13e.png">
